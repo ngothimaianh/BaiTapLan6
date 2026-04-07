@@ -54,7 +54,7 @@ void SapXepDanhSach(List &l) {
     }
 }
 
-// 2. Ham xoa node cuoi cung
+// Ham xoa node cuoi cung
 void XoaNodeCuoi(List &l) {
     if (l.head == NULL) return;
     
